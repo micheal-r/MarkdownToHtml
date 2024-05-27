@@ -4,7 +4,7 @@ Easily convert Markdown files to HTML layout files for your website.
 ## How to install
 To install this package run the following command in your terminal.
 ```bash
-npm install markdown-to-html-converter
+npm install easy-markdown-to-html
 ```
 Then let the Node Package Manager do the installation.
 
