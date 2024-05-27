@@ -1,5 +1,5 @@
 {
-  "name": "markdown-to-html",
+  "name": "markdown-to-html-converter",
   "version": "1.0.0",
   "description": "Easily convert Markdown files to HTML layout files for your website.",
   "main": "index.js",
