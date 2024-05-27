@@ -1,0 +1,31 @@
+{
+  "name": "markdown-to-html",
+  "version": "1.0.0",
+  "description": "Easily convert Markdown files to HTML layout files for your website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx MarkdownToHtml -h"
+  },
+  "bin": {
+    "MarkdownToHtml": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micheal-r/MarkdownToHtml.git"
+  },
+  "keywords": [
+    "Markdown",
+    "HTML",
+    "Code",
+    "Converter"
+  ],
+  "author": "micheal-r",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/micheal-r/MarkdownToHtml/issues"
+  },
+  "homepage": "https://github.com/micheal-r/MarkdownToHtml#readme",
+  "dependencies": {
+    "markdown-it": "^14.1.0"
+  }
+}
